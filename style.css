@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 47px;
+    font-weight: lighter;
+}
+.my-name{
+    color: rgb(226, 44, 44);
+    font-weight: bolder;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    height: 790px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 47, 47);
+    padding: 8px 16px;
+    border-radius: 5%;
+}
+p{
+    color:rgb(100, 100, 100);
+    margin-bottom: 25px;
+}
+.Header{
+    background-image: url("pictures/header-bg.png");
+    background-repeat: no-repeat ;
+}
+.biography-area{
+    background-image: url("pictures/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.work-title{
+    text-align: center;
+    margin-top: 80px;
+}
+.works{
+    width: 26%;
+    float:left;
+    margin-left: 70px;
+}
+.works img{
+    width: 100%;
+}
+.work-area{
+    height:500px !important;
+    background-image: url("pictures/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+footer{
+    height: 500px !important;
+    background-image: url("pictures/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.client-title{
+    text-align: center;
+}
+.main-title{
+    margin-bottom: 40px;
+    font-weight: 550;
+}
+.gmail{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+.last-button{
+    text-align: center;
+    margin-top: 110px;
+    background-color: rgb(255, 95, 95);
+    width: 50%;
+    margin-left: 310px;
+    border-radius: 2%;
+    padding: 25px 2px;
+}
